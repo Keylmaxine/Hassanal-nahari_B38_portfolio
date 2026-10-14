@@ -1,20 +1,20 @@
-# Hassan Al-Nahari — AIE100 Personal Portfolio
+# Hassan AIE100 Personal Portfolio — Updated Content
 
-This website was **edited from the ZIP you provided**, preserving its original black, white and red visual theme, page layouts and navigation. Your actual profile photograph is now included on `about.html`.
+This archive was edited from the ZIP you supplied, retaining the original HTML/CSS/JS design, navigation, effects, and profile photo.
 
-## What's updated
-- The About Me section uses your actual photo and shorter, more personal wording.
-- Biology is described as your **original first choice when selecting a college program**, not a program you previously studied in college.
-- Repetitive and overly formal passages on Home and Reflections have been shortened.
-- Your four academic projects and their reported results remain unchanged.
+## Updated pages
+- `index.html` — revised home introduction and Biology as an original first choice
+- `about.html` — new personal introduction, Why AI Engineering, Beyond Academics, and Looking Ahead
+- `portfolio.html` — four group/individual projects using the supplied descriptions, objectives, results, and reflections
+- `reflections.html` — all four reflections updated from the supplied text, with the first entry clarifying Biology as a first choice
+- `contact.html` — contact text from the supplied content
 
-## How to open
-Extract this ZIP. Double-click `index.html`, then open **About Me** from the navigation.
+`EDITABLE_TEXT` contains the matching source text in Markdown.
 
-## Update your existing GitHub Pages site
-Upload all files at the **root of your current repository** `keylmaxine/hassan-aie-portfolio`, keeping the `assets` folder. Commit the updates and allow GitHub Pages to redeploy. Do not upload only the ZIP; upload its extracted contents. Your About page URL remains:
+## Open locally
+Unzip the file, then open `index.html` in your browser. All paths are relative for GitHub Pages.
 
-https://keylmaxine.github.io/hassan-aie-portfolio/about.html
+## Publish
+Upload the **contents** of this extracted folder (including `assets/`) into the root of your existing GitHub Pages repository and commit.
 
-### Important
-The website shows the academic email and phone number provided for the Contact page. Remove the phone number before publishing if you prefer not to share it publicly. The site uses web fonts with system fallbacks. The photos included are only your supplied portrait.
+No additional build tools or external scripts required.

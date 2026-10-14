@@ -1,22 +1,15 @@
-# Home
+# Hassan Ahmed Hasan Al-Nahari
 
-## Hi, I'm Hassan. I like solving problems.
+**First-Year BS AI Engineering Student | Mapúa University**
 
-I'm Hassan Ahmed Hasan Al-Nahari, a first-year AI Engineering student at Mapúa University. Numbers, logic, and technology are the subjects that keep me curious.
+**Exploring the Future Through Mathematics, Technology, and Artificial Intelligence**
 
-This is where I keep track of what I learn—from classroom projects and lab reports to the questions that made me think a little harder.
+Hello! Welcome to my personal portfolio.
 
-## What's in this portfolio
+I am Hassan Ahmed Hasan Al-Nahari, a first-year AI Engineering student at Mapúa University. I have a strong interest in mathematics, logical thinking, problem-solving, and the continuous development of technology.
 
-A collection of actual first-year coursework and a few notes on what I learned along the way.
+Biology was originally my first choice of college program, but my growing interest in mathematics and engineering led me toward a different direction. I chose Artificial Intelligence Engineering because I want to understand how intelligent technologies are developed and how they can be used to solve real-world problems.
 
-**Projects and lab reports.** Course activities presented with their methods, key results, and the lessons I took away from each one.
+This website documents my academic journey, projects, laboratory experiences, personal reflections, and achievements as I continue developing my knowledge and skills in AI Engineering.
 
-**Thoughts along the way.** Short entries about figuring things out, making mistakes, and finding better ways to learn.
-
-## Coursework snapshot
-
-- Vinegar acid analysis: 3.76% (w/w)
-- Dissolved oxygen: 5.00 mg/L
-- Calorimetry: −60.49 kJ/mol
-- Campus familiarization: 2 offices
+**Welcome to my journey of learning, discovery, and innovation.**

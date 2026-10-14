@@ -8,14 +8,26 @@ I am currently a first-year AI Engineering student at Mapúa University, and I a
 
 Whether you would like to discuss academic projects, share learning opportunities, or connect professionally, feel free to contact me using the information below.
 
-**Name:** Hassan Ahmed Hasan Al-Nahari  
-**Program:** Bachelor of Science in Artificial Intelligence Engineering  
-**Year Level:** First Year  
-**University:** Mapúa University  
-**Academic Email:** Haalnahari@mymail.mapua.edu.ph  
-**Contact Number:** (+63) 962 742 5351  
+**Name:** Hassan Ahmed Hasan Al-Nahari
+
+**Program:** Bachelor of Science in Artificial Intelligence Engineering
+
+**Year Level:** First Year
+
+**University:** Mapúa University
+
+**Academic Email:** Haalnahari@mymail.mapua.edu.ph
+
+**Contact Number:** (+63) 962 742 5351
+
 **Location:** Philippines
 
 I look forward to learning from others, building connections, and discovering new opportunities throughout my journey in AI Engineering.
 
-**“Learning, growing, and exploring the possibilities of artificial intelligence — one step at a time.”**
+
+
+---
+
+
+
+**"Learning, growing, and exploring the possibilities of artificial intelligence — one step at a time."**

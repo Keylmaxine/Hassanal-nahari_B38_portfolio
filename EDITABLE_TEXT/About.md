@@ -1,37 +1,39 @@
 # About Me
 
-## Hi, I'm Hassan.
+### Hello, I'm Hassan!
 
-First-year AI Engineering student at Mapúa University. Here's a little more about me than you'll find on a class report.
+I'm **Hassan Ahmed Hasan Al-Nahari**, a first-year Bachelor of Science in Artificial Intelligence Engineering student at Mapúa University.
 
-**Hassan Ahmed Hasan Al-Nahari** — First-year BS AI Engineering, Mapúa University.
+I've always been curious about how things work, especially when it comes to science, mathematics, and technology. I enjoy challenges that require logical thinking, creativity, and finding solutions to problems.
 
-I enjoy mathematics, logical challenges, and seeing how technology works beyond the screen.
+Interestingly, **Biology was originally my first choice** when deciding what field to pursue. I've always found science fascinating, particularly the complexity of living organisms and how different systems function. However, as I explored my interests further, I realized that mathematics, engineering, and emerging technologies were areas I wanted to understand more deeply.
 
-## How I got here
+That curiosity eventually led me to Artificial Intelligence Engineering.
 
-When I was choosing a college program, Biology was actually my first choice. I was curious about the subject, but I also knew how much I enjoyed mathematics and working through problems.
+### Why AI Engineering?
 
-Engineering had been on my mind for a while. Once I started looking into AI Engineering, I saw a field that brought together the things I wanted to learn: numbers, logic, programming, and technology.
+What interests me about AI is its ability to turn data and mathematical concepts into technologies that can solve practical problems.
 
-So I chose AI Engineering. It feels like a good place to start exploring what I can build and understand.
+From healthcare and scientific research to transportation and everyday applications, artificial intelligence is changing how we interact with the world. I want to understand what happens behind these technologies, how intelligent systems learn, and how they can be developed responsibly.
 
-## Why AI caught my attention
+I'm particularly interested in the connection between mathematics, programming, and problem-solving. Although I'm still building my foundation, I'm excited to discover the possibilities this field has to offer.
 
-AI is becoming part of the websites, apps, and services we use every day. I wanted to know what happens behind those features—not just how to use them, but how they work.
+### Beyond Academics
 
-I'm especially interested in the mathematics behind intelligent systems and the way data and algorithms can be used to find patterns or solve practical problems. I haven't figured out which area of AI I want to focus on yet, and that's something I'm excited to discover.
+I consider myself someone who enjoys learning through experience. Whether I'm working on laboratory activities, solving mathematical problems, or collaborating with classmates, I try to understand not just the answers but the reasoning behind them.
 
-## What I'm working on
+I value curiosity, patience, and being open to different perspectives. I also believe that mistakes are a natural part of learning, especially when they encourage us to think critically and improve.
 
-For now, my focus is building a solid foundation in mathematics, programming, and core engineering subjects.
+Outside of completing academic requirements, I'm interested in exploring new technologies, developing useful skills, and finding opportunities to apply what I learn.
 
-My first-year coursework has also taught me to take measurements seriously, show my calculations clearly, and question results that don't look right. Those may seem like small habits, but I think they'll matter as the problems get more challenging.
+### Looking Ahead
 
-## How I approach learning
+As I continue my journey at Mapúa University, my goal is to strengthen my knowledge of mathematics, programming, and artificial intelligence while gaining experience through projects and practical applications.
 
-I'm still at the beginning, and that's okay.
+I don't expect to know everything immediately. For me, becoming an engineer is about consistently learning, asking questions, and challenging myself to improve.
 
-I like understanding *why* an answer works instead of just memorizing it. I want to keep asking questions, improving my skills, and becoming more confident with the things I create.
+This portfolio is a space where I can share my progress, experiences, and accomplishments as I work toward becoming the kind of engineer I aspire to be.
 
-This portfolio is a record of that progress, not a claim that I already know it all.
+**My personal reminder:**
+
+*"Stay curious, keep learning, and never stop exploring what you can become."*

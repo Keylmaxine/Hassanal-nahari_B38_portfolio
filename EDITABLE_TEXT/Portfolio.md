@@ -8,12 +8,18 @@ Although some of these activities are not directly related to artificial intelli
 
 The following projects represent some of my learning experiences during my first year at Mapúa University.
 
+
+
 ---
+
+
 
 ## Project 01: Stoichiometry of Solutions — Determination of Acetic Acid Content in Vinegar
 
-**Subject:** General Chemistry Laboratory (CM011L)  
-**Type:** Group Laboratory Experiment and Technical Report  
+**Subject:** General Chemistry Laboratory (CM011L)
+
+**Type:** Group Laboratory Experiment and Technical Report
+
 **Date:** September 2026
 
 ### Project Overview
@@ -40,12 +46,18 @@ Through this experiment, I gained a better understanding of how mathematical cal
 
 I also learned that accurate results depend not only on applying the correct formulas but also on collecting reliable experimental data. This is relevant to AI Engineering because data quality, precision, and careful analysis are equally important when working with computational systems and mathematical models.
 
+
+
 ---
+
+
 
 ## Project 02: Dissolved Oxygen Content of Water
 
-**Subject:** General Chemistry Laboratory (CM011L)  
-**Type:** Group Laboratory Experiment and Technical Report  
+**Subject:** General Chemistry Laboratory (CM011L)
+
+**Type:** Group Laboratory Experiment and Technical Report
+
 **Date:** September 2026
 
 ### Project Overview
@@ -76,12 +88,18 @@ I learned that data must be interpreted carefully because factors such as temper
 
 As an AI Engineering student, I find this relevant because modern technologies can use environmental data for monitoring, analysis, and prediction. The experiment showed me how reliable measurements can provide a foundation for data-driven applications.
 
+
+
 ---
+
+
 
 ## Project 03: Calorimetry — Determination of Calorimeter Heat Capacity and Heat of Neutralization
 
-**Subject:** General Chemistry Laboratory (CM011L)  
-**Type:** Group Laboratory Experiment and Technical Report  
+**Subject:** General Chemistry Laboratory (CM011L)
+
+**Type:** Group Laboratory Experiment and Technical Report
+
 **Date:** September 2026
 
 ### Project Overview
@@ -112,12 +130,18 @@ I learned that even small differences in temperature measurements can significan
 
 These lessons are relevant to AI Engineering because computational models and analytical methods must be checked for accuracy, consistency, and reasonable results.
 
+
+
 ---
+
+
 
 ## Project 04: Campus Services Familiarization Activity
 
-**Subject:** AI Engineering as a Discipline (AIE100)  
-**Type:** Individual Academic Activity and Report  
+**Subject:** AI Engineering as a Discipline (AIE100)
+
+**Type:** Individual Academic Activity and Report
+
 **Date:** September 2026
 
 ### Project Overview
