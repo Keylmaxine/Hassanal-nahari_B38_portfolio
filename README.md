@@ -1,44 +1,20 @@
-# Hassan Al-Nahari — AIE100 Personal Portfolio Website
+# Hassan Al-Nahari — AIE100 Personal Portfolio
 
-This is the **complete, image-free, five-page website**, updated with the full text from the Home, About Me, Portfolio, Reflections / Blog and Contact drafts.
+This website was **edited from the ZIP you provided**, preserving its original black, white and red visual theme, page layouts and navigation. Your actual profile photograph is now included on `about.html`.
 
-## Files
-- `index.html` — Home
-- `about.html` — About Me, background and why AI Engineering
-- `portfolio.html` — Four actual academic projects, including results and lessons learned
-- `reflections.html` — Four full personal reflection entries
-- `contact.html` — Contact information and functional email/phone links
-- `assets/` — Styles, favicon and JavaScript
-- `EDITABLE_TEXT/` — All text as individual `.md` files and one combined `.md` file
+## What's updated
+- The About Me section uses your actual photo and shorter, more personal wording.
+- Biology is described as your **original first choice when selecting a college program**, not a program you previously studied in college.
+- Repetitive and overly formal passages on Home and Reflections have been shortened.
+- Your four academic projects and their reported results remain unchanged.
 
-## Open the website
-1. Unzip the archive.
-2. Double-click `index.html` to open it in a web browser.
-3. Use the navigation menu to review all five categories.
-4. To make changes, open the `.html` files in VS Code or another text editor. The `EDITABLE_TEXT` folder provides a clean copy of all text.
+## How to open
+Extract this ZIP. Double-click `index.html`, then open **About Me** from the navigation.
 
-## Publish on GitHub Pages
-1. Create a public GitHub repository.
-2. Upload the files and the `assets/` folder from this directory to the **repository root**, not a subfolder.
-3. Under **Settings → Pages**, choose **Deploy from a branch** → `main` → `/(root)`.
-4. Wait for the live link and verify every navigation link.
-5. Submit the **published URL** to your AIE100 instructor.
+## Update your existing GitHub Pages site
+Upload all files at the **root of your current repository** `keylmaxine/hassan-aie-portfolio`, keeping the `assets` folder. Commit the updates and allow GitHub Pages to redeploy. Do not upload only the ZIP; upload its extracted contents. Your About page URL remains:
 
-## Publish on Netlify
-Go to https://app.netlify.com/drop , then drag and drop the extracted website folder and use the generated public URL.
+https://keylmaxine.github.io/hassan-aie-portfolio/about.html
 
-## Important notes
-- The three chemistry projects are clearly identified as **group activities**. The campus orientation report is **individual**.
-- The site does not include original group reports, photos, student IDs or classmates' email addresses.
-- The contact page **publishes the user's university email and phone number**. Remove the phone number before uploading if you do not want it public.
-- The site has not been hosted yet; opening it locally does not create a public link.
-- The site is entirely static and uses no database or back-end. No images are required.
-- The laboratory results are kept as reported in the supplied project reports.
-
-## Black / White / Red redesign (October 2026)
-- **Design palette:** charcoal black, white/off-white reading surfaces, and accessible deep-red accents.
-- **Readability:** generous paragraph spacing, large headings, high-contrast text, and easy-to-scan results.
-- **Navigation:** responsive mobile menu; quick jump links on Portfolio and Reflections.
-- **Content:** all five required sections and four actual academic projects retained; no photos needed.
-- **Accessibility:** visible keyboard focus, a skip-to-content link, descriptive navigation, and reduced-motion support.
-- **Fonts:** the site uses DM Sans and Space Grotesk when they are available online, with local Arial fallback if not.
+### Important
+The website shows the academic email and phone number provided for the Contact page. Remove the phone number before publishing if you prefer not to share it publicly. The site uses web fonts with system fallbacks. The photos included are only your supplied portrait.

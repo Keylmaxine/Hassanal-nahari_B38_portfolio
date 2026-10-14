@@ -283,3 +283,22 @@ h3{font-size:1.5rem;font-weight:700}
   .contact-card{padding:22px}.quote-band{padding-bottom:40px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:0.01ms!important;transition-duration:0.01ms!important}}
+
+/* Focused enhancements to the user-supplied ZIP: real profile portrait and compact readable About layout. */
+.about-profile-head{align-items:stretch;gap:34px;padding:26px 30px}
+.portrait-frame{width:214px;min-width:214px;height:252px;flex-shrink:0;overflow:hidden;border-radius:10px;background:#252527;border:1px solid #55545a}
+.portrait-frame img{width:100%;height:100%;object-fit:cover;object-position:center 27%;display:block}
+.profile-intro{display:flex;flex-direction:column;justify-content:center;min-width:0}
+.about-profile-head .profile-intro h2{font-size:clamp(1.8rem,3.3vw,3.1rem);line-height:1.16;margin:7px 0 14px;letter-spacing:-.04em}
+.profile-intro>p:last-of-type{max-width:57ch;line-height:1.72}
+.profile-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:20px}
+.profile-tags span{font-size:.72rem;font-weight:700;color:#f6f5f5;border:1px solid #6f6d70;border-radius:5px;padding:6px 9px;line-height:1.4}
+.about-personal-panel{background:#fdfafa;border-top-color:#2d2d31}
+.about-personal-panel .rich-content em{font-weight:700;color:#242427}
+.about-content-panel .rich-content p{max-width:64ch}
+@media(max-width:790px){.portrait-frame{width:185px;min-width:185px;height:220px}.about-profile-head{gap:22px}}
+@media(max-width:560px){.about-profile-head{padding:19px;gap:20px}.portrait-frame{width:100%;min-width:0;height:auto;aspect-ratio:4/3}.portrait-frame img{object-position:center 25%}.profile-intro{width:100%}.about-profile-head .profile-intro h2{font-size:1.9rem}.profile-tags{margin-top:14px}}
+
+/* Portrait text contrast and more useful crop at phone widths. */
+.about-profile-head .profile-intro>p:not(.kicker){color:#e5e5e8!important}
+@media(max-width:560px){.portrait-frame{aspect-ratio:1/1}.portrait-frame img{object-position:center 26%}}

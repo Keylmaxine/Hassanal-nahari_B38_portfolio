@@ -1,67 +1,66 @@
-# Hassan Ahmed Hasan Al-Nahari — AIE100 Portfolio Text
+# Home
 
-# Home Page
+## Hi, I'm Hassan. I like solving problems.
 
-## Hassan Ahmed Hasan Al-Nahari
+I'm Hassan Ahmed Hasan Al-Nahari, a first-year AI Engineering student at Mapúa University. Numbers, logic, and technology are the subjects that keep me curious.
 
-**First-Year BS AI Engineering Student | Mapúa University**
+This is where I keep track of what I learn—from classroom projects and lab reports to the questions that made me think a little harder.
 
-**Exploring the Future Through Mathematics, Technology, and Artificial Intelligence**
+## What's in this portfolio
 
-Hello! Welcome to my personal portfolio.
+A collection of actual first-year coursework and a few notes on what I learned along the way.
 
-I am Hassan Ahmed Hasan Al-Nahari, a first-year AI Engineering student at Mapúa University. I have a strong interest in mathematics, logical thinking, problem-solving, and the continuous development of technology.
+**Projects and lab reports.** Course activities presented with their methods, key results, and the lessons I took away from each one.
 
-My academic journey began in Biology, but my growing interest in mathematics and engineering inspired me to explore a different path. I chose Artificial Intelligence Engineering because I want to understand how intelligent technologies are developed and how they can be used to solve real-world problems.
+**Thoughts along the way.** Short entries about figuring things out, making mistakes, and finding better ways to learn.
 
-This website documents my academic journey, projects, laboratory experiences, personal reflections, and achievements as I continue developing my knowledge and skills in AI Engineering.
+## Coursework snapshot
 
-**Welcome to my journey of learning, discovery, and innovation.**
+- Vinegar acid analysis: 3.76% (w/w)
+- Dissolved oxygen: 5.00 mg/L
+- Calorimetry: −60.49 kJ/mol
+- Campus familiarization: 2 offices
 
 
 ---
 
 # About Me
 
-## Who I Am
+## Hi, I'm Hassan.
 
-My name is Hassan Ahmed Hasan Al-Nahari, and I am currently a first-year Bachelor of Science in Artificial Intelligence Engineering student at Mapúa University.
+First-year AI Engineering student at Mapúa University. Here's a little more about me than you'll find on a class report.
 
-Before pursuing AI Engineering, I was a Biology student. During that time, I was introduced to different scientific concepts and laboratory activities that helped me appreciate the importance of research, observation, and careful analysis.
+**Hassan Ahmed Hasan Al-Nahari** — First-year BS AI Engineering, Mapúa University.
 
-However, as I continued exploring my academic interests, I realized that I was more interested in mathematics, numbers, logical reasoning, and analytical problem-solving. Although Biology provided me with valuable experiences, I wanted to pursue a field that would allow me to focus more on calculations, technology, and developing solutions to problems.
+I enjoy mathematics, logical challenges, and seeing how technology works beyond the screen.
 
-Engineering has always been one of the academic fields that caught my attention because it combines mathematical principles, creativity, critical thinking, and practical applications. This interest eventually influenced my decision to pursue AI Engineering.
+## How I got here
 
-## Why I Chose AI Engineering
+When I was choosing a college program, Biology was actually my first choice. I was curious about the subject, but I also knew how much I enjoyed mathematics and working through problems.
 
-I chose Artificial Intelligence Engineering because I believe that AI is becoming one of the most influential technologies in the modern world.
+Engineering had been on my mind for a while. Once I started looking into AI Engineering, I saw a field that brought together the things I wanted to learn: numbers, logic, programming, and technology.
 
-Nowadays, artificial intelligence is being integrated into many of the digital systems we use every day, including websites, mobile applications, search engines, online platforms, and various automated services. Beyond these applications, AI is also being used in healthcare, education, transportation, business, and scientific research.
+So I chose AI Engineering. It feels like a good place to start exploring what I can build and understand.
 
-What interests me most is that AI is not simply about creating machines or programs that perform tasks automatically. It also involves understanding how data, mathematics, algorithms, and computer systems work together to recognize patterns, generate predictions, and support decision-making.
+## Why AI caught my attention
 
-Since I enjoy working with numbers and solving problems, I find the mathematical and analytical aspects of AI particularly interesting. I want to understand how intelligent systems are designed, how machine learning models are developed, and how artificial intelligence can be applied responsibly to real-world situations.
+AI is becoming part of the websites, apps, and services we use every day. I wanted to know what happens behind those features—not just how to use them, but how they work.
 
-My previous experience in Biology also gives me a different perspective on the possibilities of AI. For example, artificial intelligence has applications in medical imaging, disease research, biological data analysis, and healthcare technology. This made me realize that my previous academic background can still be valuable as I move forward in engineering.
+I'm especially interested in the mathematics behind intelligent systems and the way data and algorithms can be used to find patterns or solve practical problems. I haven't figured out which area of AI I want to focus on yet, and that's something I'm excited to discover.
 
-Ultimately, I chose AI Engineering because I want to pursue a field that challenges me intellectually while giving me opportunities to learn about technologies that continue to shape our future.
+## What I'm working on
 
-## My Academic Goals
+For now, my focus is building a solid foundation in mathematics, programming, and core engineering subjects.
 
-As a first-year AI Engineering student, my main goal is to establish a strong foundation in mathematics, programming, engineering principles, and artificial intelligence.
+My first-year coursework has also taught me to take measurements seriously, show my calculations clearly, and question results that don't look right. Those may seem like small habits, but I think they'll matter as the problems get more challenging.
 
-I want to improve my problem-solving abilities, develop my technical knowledge, and become more confident in applying what I learn through academic activities and practical projects.
+## How I approach learning
 
-I also hope to explore areas such as machine learning, data analysis, intelligent systems, and software development as I progress through my program.
+I'm still at the beginning, and that's okay.
 
-I understand that becoming an engineer requires patience, discipline, continuous learning, and the willingness to overcome challenges. Although I am still at the beginning of my journey, I am determined to keep improving and discovering what I can accomplish in this field.
+I like understanding *why* an answer works instead of just memorizing it. I want to keep asking questions, improving my skills, and becoming more confident with the things I create.
 
-## My Personal Philosophy
-
-*“Learning is not always about following the path where you started, but about having the courage to pursue the path where you believe you can grow.”*
-
-Changing my academic direction from Biology to AI Engineering has taught me that discovering my interests is part of personal growth. I believe that every experience, whether successful or challenging, can contribute to becoming a better student and a more capable future engineer.
+This portfolio is a record of that progress, not a claim that I already know it all.
 
 
 ---
@@ -217,77 +216,31 @@ As a first-year AI Engineering student, I believe that making effective use of t
 
 ---
 
-# Reflections and Learning Experiences
+# Reflections
 
-## Reflection 01: Choosing a New Academic Direction
+## 01 — How I Chose My Program
 
-**Topic:** My Journey from Biology to AI Engineering
+Biology was my first choice when I was thinking about college. But the more I considered what I enjoyed working on, the more I noticed how often I came back to mathematics and logical problems.
 
-Changing my academic path from Biology to AI Engineering was an important decision in my educational journey.
+Engineering had always interested me, and AI Engineering stood out because it connects those interests to the technology people use every day. Choosing it helped me understand what I wanted to explore when I started college.
 
-When I was studying Biology, I gained experiences that helped me appreciate scientific research and laboratory work. However, I gradually realized that my interests were more focused on mathematics, logical thinking, and working with numbers.
+I'm glad I gave myself room to think about that choice. I don't know everything about AI yet, but I want to learn.
 
-This realization encouraged me to consider engineering, a field that had already caught my attention because of its strong connection to mathematics, problem-solving, and technology.
+## 02 — The Importance of Mathematics and Data
 
-Choosing AI Engineering gave me an opportunity to explore something that genuinely interests me, especially as artificial intelligence continues to become part of everyday technology.
+Working on lab experiments showed me how measurements become meaningful through calculations, and why reliable input matters as much as choosing the right formula. The vinegar and dissolved-oxygen exercises made that especially clear.
 
-I know that adjusting to a new program will come with challenges, but I see this change as an opportunity to grow.
+## 03 — Learning from Errors and Unexpected Results
 
-The most important lesson I have learned is that changing direction does not necessarily mean losing the value of previous experiences. Sometimes, it means understanding myself better and choosing a field that is more aligned with my interests and future goals.
+Experiments don't always give the result I expect. Learning to ask why, check measurements, and correct mistakes has made me more careful with data. I want to bring that mindset into programming and AI.
 
----
+## 04 — Getting to Know My Campus
 
-## Reflection 02: The Importance of Mathematics and Data
+One of our AIE100 activities was to visit university services and understand how students can use them. I explored the library and the Security Information Office.
 
-**Topic:** What Laboratory Experiments Have Taught Me
+It sounds like a simple requirement, but it made me realize that being independent in college also means knowing where to look for help. I can use the library when I need references or a place to focus, and I know where to ask about campus safety concerns.
 
-One of the things I appreciate about my academic experiences is how mathematics can be applied to real situations.
-
-During our General Chemistry Laboratory activities, we performed experiments that required measurements, formulas, calculations, and careful interpretation of results.
-
-At first, these activities might seem unrelated to Artificial Intelligence Engineering. However, they helped me recognize the importance of working with reliable numerical information.
-
-For example, determining the acetic acid concentration in vinegar and measuring dissolved oxygen in water showed me how raw observations can be transformed into meaningful results through mathematical analysis.
-
-I also learned that using the correct equation is not enough. The accuracy of the final answer depends on the quality of the measurements and the proper interpretation of the data.
-
-I believe these experiences will be useful as I eventually study programming, data analysis, machine learning, and other AI-related subjects.
-
----
-
-## Reflection 03: Learning from Errors and Unexpected Results
-
-**Topic:** Why Accuracy and Critical Thinking Matter
-
-One important lesson I learned from laboratory work is that experimental results do not always turn out exactly as expected.
-
-During our activities, differences between measurements and unexpected calculated values reminded me that errors can occur even when procedures are followed carefully.
-
-Instead of treating these differences as simple mistakes, I learned that it is important to identify their possible causes and understand how they affect the final results.
-
-This experience helped me appreciate the value of patience, accuracy, and critical thinking.
-
-As someone pursuing AI Engineering, I believe this is an important mindset to develop. Whether I am solving mathematical problems, writing computer programs, or eventually developing AI systems, I will need to check my work, recognize possible errors, and find ways to improve my solutions.
-
-I am still learning, but I now understand that making mistakes can become a valuable part of the learning process when I take the time to understand them.
-
----
-
-## Reflection 04: My First Steps as an AI Engineering Student
-
-**Topic:** AI Engineering as a Discipline
-
-My experience in AI Engineering as a Discipline has helped me think more seriously about my chosen program and what it means to pursue engineering.
-
-Before entering the program, I was mainly interested in mathematics and the growing presence of artificial intelligence in websites, applications, and modern technology.
-
-As I began my first year, I started to appreciate that studying AI Engineering involves more than being interested in technology. It requires a willingness to learn, develop analytical skills, solve problems, and understand the responsibilities associated with creating technological solutions.
-
-Through academic requirements such as the Campus Services Familiarization Activity and this personal portfolio, I have also learned the value of documenting my experiences and becoming more independent as a university student.
-
-I realize that I am only at the beginning of my academic journey. There are still many concepts, programming languages, and technical skills that I need to learn.
-
-Nevertheless, I am looking forward to the opportunities and challenges ahead. My goal is to continue improving, remain open to new knowledge, and gradually develop the skills that will help me become a capable AI engineer.
+It's something I want to carry into the rest of my first year: make use of the resources around me instead of waiting until there's a problem.
 
 
 ---
